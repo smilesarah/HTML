@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> My HTML Notes </title>
+  </head>
+      
+<body>
+  <h1>My HTML Notes </h1>
+  <p>All text must be letters, numbers, and symbols.</p>
+  
+<hr>
+
+<p><strong> Mark up: </strong> Text that has a special meaning.
+- must start and end with a tag. </p>
+  
+<p>Italics: '< em >' for <em>italics</em> '< /em >'</p>
+  
+<p>Bold: '< strong >' for <strong>bold</strong> '< /strong >'</p>
+  
+<p>Highlight: '< mark >' for  <mark>  hightlighting  </mark>  '< /mark >'</p>
+  
+<p>Subscript:
+<br>
+'< sub >' <sub> located on the bottom of the line </sub> '< /sub >'</p>
+      
+<p>Superscript:
+<br>
+'< sup >' <sup> located on the top of the line  </sup> '< /sup ></p>
+  
+<hr>
+
+<p> <strong> Lists: </strong> Must have end tags, but the items in the list use: '< li >' and do not need end markings.
+  <ul> 
+    <li>Unordered Lists: '< ul >'
+    <li> Ordered Lists: '< ol >'
+  </ul>
+</p>
+      
+<p>Must have end tags, but the items '< li >' do not need end markings.</p>
+
+<hr>
+
+<div>
+<p>Break: '< br > doesn't need an end tag, but just creates a line break. 
+<br><br> 
+-- Use '< br >< br >' to create a space between 2 lines. </p>
+
+<p>Paragraph: '< p >' needs the ened tag '< /p > to create an element.</p>
+
+<p>Divide: '< div >' can create a an element with multiple nested paragraphs inside.</p>
+
+<p>Headings: '< h # >' creates different size headins. Use numbers 1, 2, 3, 4, 5, or 6 <br>(1 - biggest, 6 - smallest).</p>
+</div>
+  
+<hr>
+  
+<p><strong>How to add a link:</strong><br>
+'< a href = "http(s)://website.com/" > Text for link < /a >'
+<br>(example:<a href="http://www.gmail.com/">Gmail</a>)</p>
+  
+<p> <strong>How to add an image link:</strong><br>
+'< img src="link" alt="Text name >
+  <br><br>
+Example: 
+<br>
+<img src="https://placebear.com/200/150" alt="Bear Photo">
+<br><br>
+Note: After ".com/" the numbers 200/150 or 800/600 indicate the size of the photo.</p>
+  
+</body>
+</html>
